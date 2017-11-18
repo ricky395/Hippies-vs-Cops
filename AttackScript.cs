@@ -114,7 +114,10 @@ public class AttackScript : MonoBehaviour {
         else NotAttacking();
 	}
 
-    void Attacking() //attack function
+    /// <summary>
+    /// Attack function
+    /// </summary>
+    void Attacking()
     {
         if (!isPlayable)
         {
@@ -128,7 +131,10 @@ public class AttackScript : MonoBehaviour {
         else animator.Play("idle");
     }
 
-    void NotAttacking() //manages what happens when a unit stops attacking
+    /// <summary>
+    /// Manages what happens when a unit stops attacking
+    /// </summary>
+    void NotAttacking()
     {
         if (!isPlayable)
         {
@@ -137,12 +143,12 @@ public class AttackScript : MonoBehaviour {
         animator.Play("idle");
     }
 
-    public bool GetIsAttacking() //getter of 'is attacking' boolean
+    public bool GetIsAttacking()
     {
         return attacking;
     }
 
-    public float GetAttackingSpeed() //attacking speed getter
+    public float GetAttackingSpeed()
     {
         return attackingSpeed;
     }
