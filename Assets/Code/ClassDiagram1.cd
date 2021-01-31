@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackScript">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAUAAAADACAEIAAAAAAASAAAGABQAAAABAAAAAKAAAA=</HashCode>
+      <FileName>Assets\Scripts\AttackScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackTypeByClass">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASAAAAAACAEAgQAEAAAQEAEAEAAAAAAAAAkAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AttackTypeByClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioLibrary">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAABAAAAQAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AudioLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxManager">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAgASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BoxManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletCollisionScript">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAAAAAEEAAAEAIAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BulletCollisionScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EditorGrid">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAADAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EditorGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoseGame">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoseGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSDHealingManager">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\LSDHealingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuHeads">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAhAAACAEgQEAEAAAGBAAABAQAEAAIAAAAAQAAIA=</HashCode>
+      <FileName>Assets\Scripts\MenuHeads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyManager">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAQAAIACgAAAAABAAAAACAAAAACAAIAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\MoneyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealth">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\PlayerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionManager">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAAAQIAIAAAABAAQQAAAiAAIAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SelectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnManager">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQFAIAAASAEAoAAAQAAIIAAAAAAAAAAgABAEAAABAE=</HashCode>
+      <FileName>Assets\Scripts\SpawnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteMovement">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAACAAIAAABAAAQAAAAEAQAAAABAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpriteMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartResolution">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAAAQAQIAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StartResolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnselectManager">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAASAAAAEAgAAAAABAAQAAAgAAIABAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\UnselectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
